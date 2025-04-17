@@ -1,0 +1,24 @@
+# 📦 Environnement virtuel
+.venv*/
+venv/
+env/
+
+# 🔑 Clés et config
+.env
+
+# 🧠 Modèle Whisper
+whisper.cpp/models/*
+!whisper.cpp/models/README.md
+
+# 🎧 Audios téléchargés et convertis
+downloads/
+converted/
+
+# 📄 Fichiers générés
+articles/generated.md
+__pycache__/
+*.pyc
+*.log
+
+# 🗂️ Fichiers système
+.DS_Store
