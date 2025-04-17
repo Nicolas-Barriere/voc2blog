@@ -7,8 +7,7 @@ env/
 .env
 
 # 🧠 Modèle Whisper
-whisper.cpp/models/*
-!whisper.cpp/models/README.md
+whisper.cpp/
 
 # 🎧 Audios téléchargés et convertis
 downloads/
@@ -21,4 +20,4 @@ __pycache__/
 *.log
 
 # 🗂️ Fichiers système
-.DS_Store
+.DS_Storewhisper.cpp/
